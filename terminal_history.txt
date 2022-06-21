@@ -1,0 +1,24 @@
+    1  C:/Users/brand/anaconda3/Scripts/activate
+    2  conda activate base
+    3  git status
+    4  cd
+    5  cd Downloads
+    6  cd Starter_code
+    7  cd loan_qualifier_app
+    8  ls
+    9  cd loan_app
+   10  cd loan_qualifier_app
+   11  git clone gh repo clone bjezek/Brandongotthis
+   12  git add Brandongotthis/
+   13  get add loan_app
+   14  git clone gh repo clone bjezek/Brandongotthis
+   15  git clone https://github.com/bjezek/Wow.git
+   16  git commit -m "help is on the way with capability to save and update loan qualifier information as well as exit application if wrong or no save entry was entered"
+   17  cd loan_app
+   18  git push loan_app
+   19  git push Starter_Code
+   20  git push wow
+   21  git push https://github.com/bjezek/Wow.git
+   22  git commit -m "git it done"
+   23  git commit -m "all or nothing"
+   24  history 50 > terminal_history.txt
