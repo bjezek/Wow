@@ -1,4 +1,9 @@
 # Wow
+
+#Application used to save file path and ask user if they want to say loans to csvfile
+if not exit application. 
+
+
 #updated csv file path 
 #updated path for qualifying loan applications to save to csvfile.
 
