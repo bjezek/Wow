@@ -1,3 +1,12 @@
+
+# Overview of the project 
+creating an application that runs a customers income and debt information along with there credit
+score to determine if they qualify for the loan they request and then asking them if they want to save it.
+
+# Technology used is python 3.10 and Fire.Fire
+
+
+
 # Wow
 
 #Application used to save file path and ask user if they want to say loans to csvfile
@@ -8,7 +17,7 @@ if not exit application.
 #updated path for qualifying loan applications to save to csvfile.
 
 # @TODO: Complete the usability dialog for savings the CSV Files.
-    # YOUR CODE HERE!
+    
     if not qualifying_loans:
         sys.exit("Sorry, there are no qualifying loans!")
 
@@ -20,7 +29,7 @@ if not exit application.
         ).ask()
         save_csv(Path(csvpath), qualifying_loans)
         
-        
+# saves rows into csv file with data that user qualifies for and imports it row by row allowing the user to read the loan data clearly. 
               for row in csvreader:
             data.append(row)
     return data
